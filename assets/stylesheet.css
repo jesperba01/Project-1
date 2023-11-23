@@ -1,25 +1,41 @@
+li {
+    display: inline-block;
+}
+
 .topnav {
-    background-color: #363b39;
+    background-color: black;
 }
 
 .topnav a {
     float: left;
-    color: #363b39;
+    color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
     font-size: 17px;
+    position: relative;
+    background-color: black;
 }
 
 .topnav a:hover {
-    background-color: #363b39;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .topnav a.active {
     background-color: #04AA6D;
     color: #363b39;
 }
+
 .hero-image {
     background-image: url("https://images7.alphacoders.com/878/thumb-1920-878332.jpg")
+}
+
+body>div {
+    background-color: #363b39;
+    text-align: center;
+    opacity: 0.95;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin: 5%;
 }
