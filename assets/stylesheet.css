@@ -1,9 +1,9 @@
-li {
+header>li {
     display: inline-block;
 }
 
 .topnav {
-    background-color: black;
+    background-color: #333;
 }
 
 .topnav a {
@@ -13,17 +13,17 @@ li {
     padding: 14px 16px;
     font-size: 17px;
     position: relative;
-    background-color: black;
 }
 
 .topnav a:hover {
     background-color: white;
     color: black;
+    position: relative;
 }
 
 .topnav a.active {
     background-color: #04AA6D;
-    color: #363b39;
+    position: relative;
 }
 
 .hero-image {
@@ -38,4 +38,18 @@ body>div {
     font-size: 20px;
     position: relative;
     margin: 5%;
+}
+
+.hero-background {
+    background-color: #17130f;
+}
+
+ul {
+    display: inline-block;
+    font-size: 20px;
+    margin: 3%;
+}
+
+li a {
+    color: white;
 }
