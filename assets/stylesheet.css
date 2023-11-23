@@ -1,11 +1,10 @@
 .topnav {
-    background-color: black;
-    overflow: hiddem;
+    background-color: #363b39;
 }
 
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #363b39;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -13,11 +12,14 @@
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #363b39;
+    color: white;
 }
 
 .topnav a.active {
     background-color: #04AA6D;
-    color: white;
+    color: #363b39;
+}
+.hero-image {
+    background-image: url("https://images7.alphacoders.com/878/thumb-1920-878332.jpg")
 }
