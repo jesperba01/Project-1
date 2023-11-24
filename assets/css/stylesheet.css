@@ -1,82 +1,85 @@
-header > li {
-  display: inline-block;
+header>li {
+    display: inline-block;
 }
 
 .topnav {
-  background-color: #333;
+    background-color: #333;
 }
 
 .topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 16px 16px;
-  font-size: 20px;
-  position: relative;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    position: relative;
 }
 
 .topnav a:hover {
-  background-color: white;
-  color: black;
-  position: relative;
+    background-color: white;
+    color: black;
+    position: relative;
 }
 
 .topnav a.active {
-  background-color: #04aa6d;
-  position: relative;
+    background-color: #04aa6d;
+    position: relative;
 }
 
 .hero-image {
-  background-image: url("../images/hero-background.png");
+    background-image: url("../images/hero-background.png");
 }
 
-body > div {
-  background-color: #363b39;
-  text-align: center;
-  opacity: 0.95;
-  color: white;
-  font-size: 20px;
-  position: relative;
-  margin: auto;
-  width: 70%;
+body {
+    text-align: center;
+    opacity: 0.95;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin: auto;
+    width: 75%;
 }
 
 .hero-background {
-  background-color: #17130f;
+    background-color: #17130f;
 }
 
 ul {
-  display: inline-block;
-  font-size: 20px;
-  margin: 3%;
+    display: inline-block;
+    font-size: 20px;
+    margin: 3%;
 }
 
 li a {
-  color: white;
+    color: white;
 }
 
 em {
-  color: gold;
+    color: gold;
 }
 
 .abilitie {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px black;
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px black;
 }
 
 .abilitie .abilitie-text {
-  z-index: 1;
-  visibility: hidden;
-  width: 200px;
-  background-color: #2b2e2d;
-  color: gold;
-  padding: 5px 0;
-  border-radius: 6px;
-  position: absolute;
-  border: 1px solid black;
+    z-index: 1;
+    visibility: hidden;
+    width: 200px;
+    background-color: #2b2e2d;
+    color: gold;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    border: 1px solid black;
 }
 
 .abilitie:hover .abilitie-text {
-  visibility: visible;
+    visibility: visible;
+}
+
+.me-img {
+    background-image: url("../images/me.png");
 }
