@@ -37,7 +37,8 @@ body>div {
     color: white;
     font-size: 20px;
     position: relative;
-    margin: 5%;
+    margin: auto;
+    width: 70%;
 }
 
 .hero-background {
@@ -53,6 +54,29 @@ ul {
 li a {
     color: white;
 }
+
 em {
     color: gold;
+}
+
+.abilitie {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px black;
+}
+
+.abilitie .abilitie-text {
+    z-index: 1;
+    visibility: hidden;
+    width: 200px;
+    background-color: #2b2e2d;
+    color: gold;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    border: 1px solid black
+}
+
+.abilitie:hover .abilitie-text {
+    visibility: visible;
 }
