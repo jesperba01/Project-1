@@ -71,7 +71,7 @@ em {
     color: gold;
     padding: 5px 0;
     border-radius: 6px;
-    position: absolute;
+    position: absolute;s6
     border: 1px solid black;
 }
 
@@ -85,5 +85,12 @@ em {
 
 #home-page {
     background-color: #1a1c1b;
-    opacity: 0.80;
+    opacity: 0.90;
+}
+
+p {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
