@@ -32,7 +32,6 @@ header>li {
 
 body {
     text-align: center;
-    opacity: 0.95;
     color: white;
     font-size: 20px;
     position: relative;
@@ -82,4 +81,9 @@ em {
 
 .me-img {
     background-image: url("../images/me.png");
+}
+
+#home-page {
+    background-color: #1a1c1b;
+    opacity: 0.80;
 }
