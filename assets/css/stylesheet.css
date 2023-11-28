@@ -1,19 +1,18 @@
-.wowgear-icon {
-    background-image: url(assets/images/icon-slot.png);
+.wowgear  {
+    color: white;
+}
+.wowgear li {
+    list-style-type: none;
+    position: static;
+    margin: 56px;
+    margin-left: 250px;
 }
 
-.wowgear {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-size: cover;
-    border: 1px #c600ff;
-
+.wowgear img {
+    border-image: 1px #F67DE5;
 }
 
-header>li {
+header li {
     display: inline-block;
 }
 
@@ -45,13 +44,19 @@ header>li {
     background-image: url("../images/hero-background.png");
 }
 
-body {
+.race-page {
     text-align: center;
     color: white;
     font-size: 20px;
     position: relative;
     margin: auto;
     width: 75%;
+}
+
+.race-page p {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .hero-background {
@@ -98,14 +103,18 @@ em {
     background-image: url("../images/me.png");
 }
 
-#home-page {
+.home-page {
     background-color: #1a1c1b;
     opacity: 0.90;
+    width: 75%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin: auto;
 }
 
-p {
-    text-align: center;
+.home-page p {
     margin-left: 10%;
     margin-right: 10%;
-
 }
