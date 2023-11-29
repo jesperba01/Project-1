@@ -20,17 +20,18 @@
 
 header li {
     display: inline-block;
+    position: relative;
 }
 
 .topnav {
     background-color: #333;
 }
 
-.topnav a {
+.topnav a, .topnav span {
     float: left;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 14px;
     font-size: 20px;
     position: relative;
 }
@@ -41,7 +42,7 @@ header li {
     position: relative;
 }
 
-.topnav a.active {
+.topnav a.active, .topnav span.active {
     background-color: #04aa6d;
     position: relative;
 }
@@ -69,7 +70,7 @@ header li {
     background-color: #17130f;
 }
 
-ul {
+.race-page ul {
     display: inline-block;
     font-size: 20px;
     margin: 3%;
@@ -123,4 +124,23 @@ em {
 .home-page p {
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.feedback-background {
+    background-color: #17130f;
+    
+}
+.feedback-area {
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    font-size: 20px;
+    display: inline-block;
+}
+fieldset {
+    max-width: 700px;
+}
+.feedback-area p {
+    text-align: right;
 }
