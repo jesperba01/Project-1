@@ -4,8 +4,9 @@
 .wowgear li {
     list-style-type: none;
     position: static;
-    margin: 56px;
-    margin-left: 250px;
+    margin: 30px;
+    margin-left: 350px;
+    margin-right: 150px;
 }
 
 .wowgear img {
