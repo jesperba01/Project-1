@@ -5,17 +5,15 @@
 .wowgear em {
     color: #a803a6;
 }
-
+.wowgear ul {
+    display: inline-block;
+    margin-right: 15%;
+    margin-left: 15%;
+}
 .wowgear li {
     list-style-type: none;
     position: static;
     margin: 20px;
-    margin-right: 120px;
-    margin-left: 250px;
-}
-
-.wowgear img {
-    border-image: 1px #F67DE5;
 }
 
 header li {
@@ -25,14 +23,14 @@ header li {
 
 .topnav {
     background-color: #333;
+    font-size: 20px;
+
 }
 
 .topnav a, .topnav span {
     float: left;
     color: white;
-    text-align: center;
-    padding: 14px 14px;
-    font-size: 20px;
+    padding: 14px 16px;
     position: relative;
 }
 
@@ -130,17 +128,19 @@ em {
     background-color: #17130f;
     
 }
+
 .feedback-area {
     color: white;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 10%;
     font-size: 20px;
+}
+.feedback-area div {
     display: inline-block;
+    text-align: justify;
 }
+
 fieldset {
-    max-width: 700px;
-}
-.feedback-area p {
-    text-align: right;
+    max-width: 800px;
 }
