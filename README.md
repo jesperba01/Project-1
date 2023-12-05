@@ -33,7 +33,6 @@ so i went whit a vibrant home page and a dark theme for the rest of the pages.
 
 I used [coolors.co](https://coolors.co/palette/a803a6-ffd700-1a1c1b-04aa6d-333333) to generate my colour palette.
 
-
 ### Typography
 
 🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
@@ -54,105 +53,29 @@ Example:
 
 ## Wireframes
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, display your wireframe screenshots using a Markdown `table`.
-Instructions on how to do Markdown `tables` start on line #213 on this site: <https://pandao.github.io/editor.md/en.html>
-
-Alternatively, dropdowns are a way to condense several wireframes into a collapsible menu to save space.
-Dropdowns in Markdown are considered some of the only acceptable HTML components that are allowed for assessment purposes.
-
-**IMPORTANT**! **IMPORTANT**! **IMPORTANT**!
-The example below uses the `details` and `summary` code elements.
-However, for these scripts to work, I've had to add spaces within the `< >` elements.
-
-You MUST remove these spaces for it to work properly on your own README/TESTING files.
-Remove the spaces within the `< >` brackets for the `details` and `summary` code elements,
-for the Mobile, Tablet, and Desktop wireframes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
-I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+I've used [Figma](https://www.figma.com) to design my site wireframes.
 
 ### Mobile Wireframes
 
 < details >
-< summary > Click here to see the Mobile Wireframes < / summary >
-
-Home
-
-- ![screenshot](documentation/wireframes/mobile-home.png)
-
-About
-
-- ![screenshot](documentation/wireframes/mobile-about.png)
-
-Contact
-
-- ![screenshot](documentation/wireframes/mobile-contact.png)
-
-Gallery
-
-- ![screenshot](documentation/wireframes/mobile-gallery.png)
-
-etc.
-
-- repeat for any remaining mobile wireframes
-
-< / details >
-
-### Tablet Wireframes
-
-< details >
-< summary > Click here to see the Tablet Wireframes < / summary >
-
-Home
-
-- ![screenshot](documentation/wireframes/tablet-home.png)
-
-About
-
-- ![screenshot](documentation/wireframes/tablet-about.png)
-
-Contact
-
-- ![screenshot](documentation/wireframes/tablet-contact.png)
-
-Gallery
-
-- ![screenshot](documentation/wireframes/tablet-gallery.png)
-
-etc.
-
-- repeat for any remaining tablet wireframes
-
-< / details >
-
-### Desktop Wireframes
-
-< details >
-< summary > Click here to see the Desktop Wireframes < / summary >
+< summary > Click here to see the Wireframes < / summary >
 
 Home
 
 - ![screenshot](documentation/wireframes/wireframe-homepage.png)
 
-About
+Race Helper
 
-- ![screenshot](documentation/wireframes/desktop-about.png)
+- ![screenshot](documentation/wireframes/wireframe-racepage.png)
 
-Contact
+Final Boss
 
-- ![screenshot](documentation/wireframes/desktop-contact.png)
+- ![screenshot](documentation/wireframes/wireframe-final.png)
 
-Gallery
+Feedback
 
-- ![screenshot](documentation/wireframes/desktop-gallery.png)
-
-etc.
-
-- repeat for any remaining desktop wireframes
+- ![screenshot](documentation/wireframes/wireframe-feedback.png)
 
 < / details >
 
@@ -175,23 +98,43 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Nav bar**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Navigation menu for moving between the pages.
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/features/navbar.png)
 
-- **Title for feature #2**
+- **In pages links**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Links that direct you to the different sections on the page.
 
-![screenshot](documentation/feature02.png)
+![screenshot](documentation/features/inpagelinks.png)
 
-- **Title for feature #3**
+- **Links to backstory websites**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Links to websites whit backstory for eatch race.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/features/linksrace.png)
+
+- **Abilitie info**
+
+  - Hover feature whit info about the abilities.
+
+![screenshot](documentation/features/tooltipbf.png)
+![screenshot](documentation/features/tooltipaf.png)
+
+- **gear icon list**
+
+  - picture of the gear pice and its name.
+
+![screenshot](documentation/features/imglist.png)
+
+- **Feedback and contact form**
+
+  - Feedback form and contact informantion.
+
+![screenshot](documentation/features/feedbackform.png)
+
 
 🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
