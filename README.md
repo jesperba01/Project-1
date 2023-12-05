@@ -6,89 +6,33 @@ This is the Code Institute student template for Codeanywhere. If you are using G
 
 # [PROJECT 1](https://jesperba01.github.io/Project-1)
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+World Of Warcraft For Beginners
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+This website is a helping hand for new players or just people intrested in WOW(World of warcraft).
+The game has been out for 19 years and is one of the largest games out there so its understable why it can be a little "much" for new people.
+This website focuses more on the character and class selection part of the game so that you can get started and learn more as you progress.
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
-
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
-
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
-<https://ui.dev/amiresponsive?url=https://jesperba01.github.io/Project-1>
-
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
+Here is a mockup of the website
 
 ![screenshot](documentation/mockup.png)
 
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-<https://pandao.github.io/editor.md/en.html>
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ## UX
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+For the design i wanted to include a vibrant picture of the game and its characters but also keep it kinda dark and mysterious like the game is.
+so i went whit a vibrant home page and a dark theme for the rest of the pages.
 
 ### Colour Scheme
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- `#333` used for navbar
+- `#04aa6d` used for navbar and links in list highlights.
+- `#17130f` used for background color second, fourth and fifth page.
+- `#1a1c1b` used for background color home page.
+- `#FFD700` used for em highlights and tool tip.
+- `#a803a6` used for em in lists.
+- `white` used for primary text.
 
-Explain your colours and the colour scheme.
+I used [coolors.co](https://coolors.co/palette/a803a6-ffd700-1a1c1b-04aa6d-333333) to generate my colour palette.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Consider adding a link and screenshot for your colour scheme using "coolors".
-<https://coolors.co/generate>
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
-
-```css
-:root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
-}
-```
 
 ### Typography
 
