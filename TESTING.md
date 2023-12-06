@@ -44,7 +44,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | --- | --- | --- | --- | --- | --- |
 | Chrome | ![screenshot](documentation/browsers/chrome/chrome-home.png) | ![screenshot](documentation/browsers/chrome/chrome-race.png) | ![screenshot](documentation/browsers/chrome/chrome-final.png) | ![screenshot](documentation/browsers/chrome/chrome-feedback.png) | Works as expected |
 | Edge | ![screenshot](documentation/browsers/edge/edge-home.png) | ![screenshot](documentation/browsers/edge/edge-race.png) | ![screenshot](documentation/browsers/edge/edge-final.png) | ![screenshot](documentation/browsers/edge/edge-feedback.png) | Works as expected |
-| Safari | ![screenshot](documentation/browsers/safari/safari-home.png) | ![screenshot](documentation/browsers/safari/safari-race.png) | ![screenshot](documentation/browsers/safari/safari-final.png) | ![screenshot](documentation/browsers/safari/safari-feedback.png) | Minor CSS differences to button and link colors|
+| Safari (mobile verson)| ![screenshot](documentation/browsers/safari/safari-home.png) | ![screenshot](documentation/browsers/safari/safari-race.png) | ![screenshot](documentation/browsers/safari/safari-final.png) | ![screenshot](documentation/browsers/safari/safari-feedback.png) | Minor CSS differences to button and link colors|
 
 ## Responsiveness
 
