@@ -114,8 +114,6 @@ Feedback
   - continue down on second page whit more info.
 - Add backstorys #2
   - remove links to backstory websites and write my own.
-- Title for future feature #3
-  - Any additional notes about this feature.
 
 ## Tools & Technologies Used
 
