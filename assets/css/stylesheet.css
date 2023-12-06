@@ -112,6 +112,8 @@ em {
 
 .me-img {
     background-image: url("../images/me.png");
+    background-size: 100%;
+    background-repeat: none;
 }
 
 .home-page {
