@@ -170,14 +170,6 @@ You can fork this repository by using the following steps:
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
-## Credits
-
-- [Nav bar](https://www.w3schools.com/css/css_navbar.asp) used for insperation to nav bar
-- [Layout for third page](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn) used insperation for layout
-- [Background img](https://wall.alphacoders.com/big.php?i=878332) used for backgrond on home page
-- [Background img](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn2) used for backgrond on third page
-- [Hover feature](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/) used for insperation on hover feature
-
 ### Content
 
 | Source | Location | Notes |
@@ -187,16 +179,17 @@ You can fork this repository by using the following steps:
 
 ### Media
 
-| Source | Location | Type | Notes |
-| --- | --- | --- | --- |
-| [Nav bar](https://www.w3schools.com/css/css_navbar.asp) used for insperation to nav bar
-| [Layout for third page](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn) used insperation for layout
-| [Background img](https://wall.alphacoders.com/big.php?i=878332) used for backgrond on home page
-| [Background img](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn2) used for backgrond on third page
-| [Hover feature](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/) used for insperation on hover feature
+| Source | Notes |
+| --- | --- |
+| [Nav bar](https://www.w3schools.com/css/css_navbar.asp)| used for insperation to nav bar
+| [Layout for third page](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn)| used insperation for layout
+| [Background img](https://wall.alphacoders.com/big.php?i=878332)| used for backgrond on home page
+| [Background img](https://worldofwarcraft.blizzard.com/en-gb/character/eu/stormscale/Americancorn2)| used for backgrond on third page
+| [Hover feature](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/)| used for insperation on hover feature
 
 ### Acknowledgements
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank Code Institute mentor, [Julia Konovalova](https://github.com/TravelTimN) for last minut mentor session.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support and helpfull tips
