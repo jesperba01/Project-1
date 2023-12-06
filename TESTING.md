@@ -45,12 +45,12 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | n/a | ![screenshot](documentation/testing/test-index.png) | pass: No Errors|
-| Race Helper | n/a | ![screenshot](documentation/testing/test-racewow.png) | pass: No Errors |
-| Final Boss | n/a | ![screenshot](documentation/testing/test-me.png) | Pass: No Errors |
-| Feedback | n/a | ![screenshot](documentation/testing/test-feedback.png) | pass: No Errors |
-| Confermation | n/a | ![screenshot](documentation/testing/test-conf.png) | Pass: No Errors |
-| deployed page | n/a | ![screenshot](documentation/testing/test-pages.png) | Pass: No Errors |
+| Home | [W3C](https://validator.w3.org/#validate_by_input) | ![screenshot](documentation/testing/test-index.png) | pass: No Errors|
+| Race Helper | [W3C](https://validator.w3.org/#validate_by_input) | ![screenshot](documentation/testing/test-racewow.png) | pass: No Errors |
+| Final Boss | [W3C](https://validator.w3.org/#validate_by_input) | ![screenshot](documentation/testing/test-me.png) | Pass: No Errors |
+| Feedback | [W3C](https://validator.w3.org/#validate_by_input) | ![screenshot](documentation/testing/test-feedback.png) | pass: No Errors |
+| Confermation | [W3C](https://validator.w3.org/#validate_by_input) | ![screenshot](documentation/testing/test-conf.png) | Pass: No Errors |
+| deployed page | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjesperba01.github.io%2FProject-1%2F) | ![screenshot](documentation/testing/test-pages.png) | Pass: No Errors |
 
 ### CSS
 

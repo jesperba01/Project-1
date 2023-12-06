@@ -49,11 +49,11 @@ Home
 
 Race Helper
 
-- ![screenshot](documentation/wireframes/wireframe-racepage.png)
+- ![screenshot](documentation/wireframe/wireframe-racepage.png)
 
 Final Boss
 
-- ![screenshot](documentation/wireframes/wireframe-final.png)
+- ![screenshot](documentation/wireframe/wireframe-final.png)
 
 Feedback
 
