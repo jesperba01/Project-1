@@ -11,17 +11,19 @@
 </head>
 <body class="feedback-background">
     <header class="topnav">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="racewow.html">Race helper</a></li>
-        <li><a href="me.html">Final Boss</a></li>
-        <li><span class="active">Feedback</span></li>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="racewow.html">Race helper</a></li>
+            <li><a href="me.html">Final Boss</a></li>
+            <li><span class="active">Feedback</span></li>
+        </ul>
     </header>
     <div>
         <section>
             <form action="conf.html"> 
                 <fieldset class="feedback-area">
+                    <legend>Feedback Form</legend>
                     <div>
-                        <legend>Feedback Form</legend>
                         <label for="name">Name:</label>
                         <input type="text" name="name" id="name" required>
                         <br>
@@ -32,7 +34,7 @@
                         <br>
                         <label for="feedback">Feedback:</label>
                         <br>
-                        <textarea id="feedback" name="feedback" value="feedback" cols="40" rows="18" required>
+                        <textarea id="feedback" name="feedback" cols="40" rows="18" required>
                         </textarea>  
                         <button type="submit">send</button>
                     </div>

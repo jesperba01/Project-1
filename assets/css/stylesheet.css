@@ -76,6 +76,10 @@ header li {
     margin: 3%;
 }
 
+.race-page h3 {
+    display: inline-block;
+}
+
 li a {
     color: #04aa6d;
 }
