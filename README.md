@@ -33,24 +33,6 @@ so i went whit a vibrant home page and a dark theme for the rest of the pages.
 
 I used [coolors.co](https://coolors.co/palette/a803a6-ffd700-1a1c1b-04aa6d-333333) to generate my colour palette.
 
-### Typography
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
-
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
-
 ## Wireframes
 
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
@@ -63,38 +45,23 @@ I've used [Figma](https://www.figma.com) to design my site wireframes.
 
 Home
 
-![screenshot](documentation/wireframes/wireframe-homepage.png)
+- ![screenshot](documentation/wireframe/wireframe-homepage.png)
 
 Race Helper
 
-![screenshot](documentation/wireframes/wireframe-racepage.png)
+- ![screenshot](documentation/wireframes/wireframe-racepage.png)
 
 Final Boss
 
-![screenshot](documentation/wireframes/wireframe-final.png)
+- ![screenshot](documentation/wireframes/wireframe-final.png)
 
 Feedback
 
-![screenshot](documentation/wireframes/wireframe-feedback.png)
+- ![screenshot](documentation/wireframe/wireframe-feedback.png)
 
 </details>
 
 ## Features
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Existing Features
 
@@ -223,20 +190,6 @@ You can fork this repository by using the following steps:
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
 
 ### Media
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-se this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.U
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
