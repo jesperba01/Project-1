@@ -26,7 +26,6 @@ header li {
 .topnav {
     background-color: #333;
     font-size: 20px;
-
 }
 
 .topnav a, .topnav span {
@@ -55,9 +54,9 @@ header li {
     text-align: center;
     color: white;
     font-size: 20px;
-    position: relative;
-    margin: auto;
-    width: 75%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .race-page p {
