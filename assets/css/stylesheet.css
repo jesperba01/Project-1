@@ -1,20 +1,21 @@
 .wowgear  {
     color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .wowgear em {
-    color: #a803a6;
+    color: white;
 }
 
 .wowgear ul {
     display: inline-block;
-    margin-right: 15%;
-    margin-left: 15%;
+     
 }
 
 .wowgear li {
     list-style-type: none;
-    position: static;
     margin: 20px;
 }
 
@@ -103,6 +104,7 @@ em {
     border-radius: 6px;
     position: absolute;
     border: 1px solid black;
+    right: 0;
 }
 
 .abilitie:hover .abilitie-text {
@@ -111,8 +113,10 @@ em {
 
 .me-img {
     background-image: url("../images/me.png");
-    background-size: 100%;
-    background-repeat: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 .home-page {
